@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-    CreditPaymentService service = new CreditPaymentService();
+        CreditPaymentService service = new CreditPaymentService();
 
         System.out.println();
         System.out.println("Ежемесячный платеж при сроке кредита 1 год:");
